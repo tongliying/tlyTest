@@ -50,6 +50,7 @@ span {
 </style>
 <script type="text/javascript">
 	$(document).ready(function() {
+		alert(1);
 		//alert($("div > p"));
 		//$(document.body).css("background","#eee");
 		// $(myForm.elements).hide();
